@@ -1,2 +1,2 @@
 # UIs-of-Eco-Waste-App
-Eco -Waste garbage solution app UIs (Design using figma)
+Eco -Waste garbage solution app UIs (Design using MockFlow)
